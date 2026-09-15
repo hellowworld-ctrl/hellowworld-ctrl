@@ -86,7 +86,7 @@ classwork that grew a personality.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hellowworld-ctrl&bg_color=0b0a12&color=a78bfa&line=22d3ee&point=fb7185&area=true&hide_border=true&area_color=22d3ee" width="100%" alt="activity graph"/>
+  <img src="./assets/activity-graph.svg" width="100%" alt="activity graph"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:a78bfa,100:22d3ee&text=snake%20mode&fontAlignY=48&fontSize=28&fontColor=0b0a12" width="100%"/>
