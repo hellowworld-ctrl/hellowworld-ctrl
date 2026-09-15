@@ -49,10 +49,10 @@
   <circle r="3" fill="#fb7185">
     <animateMotion dur="9s" repeatCount="indefinite" path="M 1100 300 C 900 240, 700 320, 420 280 S 160 250, 90 200"/>
   </circle>
-  <text x="64" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#67e8f9" letter-spacing="4">CS @ SJSU  ·  BAY AREA  ·  BUILD MODE</text>
+  <text x="64" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#67e8f9" letter-spacing="3">Computer Science @ San José State  ·  Bay Area</text>
   <text x="60" y="168" font-family="ui-sans-serif, -apple-system, Segoe UI, Inter, sans-serif" font-size="64" font-weight="800" fill="#f8fafc">VOLODYMYR</text>
   <text x="60" y="232" font-family="ui-sans-serif, -apple-system, Segoe UI, Inter, sans-serif" font-size="64" font-weight="800" fill="url(#neon)">SURIN</text>
-  <text x="64" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#cbd5e1">"Can't innovate anymore, my ass!"  — Phil Schiller</text>
+  <text x="64" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#cbd5e1">"Talk is cheap. Show me the code."  — Linus Torvalds</text>
   <g transform="translate(860,86)">
     <rect x="8" y="8" width="236" height="168" rx="28" fill="#22d3ee" opacity="0.18" filter="url(#soft)"/>
     <rect width="236" height="168" rx="28" fill="#0b0a12" stroke="url(#neon)" stroke-width="3"/>
