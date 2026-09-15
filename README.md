@@ -10,7 +10,6 @@
   <a href="https://github.com/hellowworld-ctrl/hackathons"><img src="https://img.shields.io/badge/%F0%9F%92%A1%20hackathons-open%20folder-a78bfa?style=for-the-badge&labelColor=0b0a12"/></a>
   <a href="https://github.com/hellowworld-ctrl/school"><img src="https://img.shields.io/badge/%F0%9F%8E%93%20school-open%20folder-22d3ee?style=for-the-badge&labelColor=0b0a12"/></a>
   <a href="https://devpost.com/volodymyr-surin"><img src="https://img.shields.io/badge/devpost-portfolio-003E54?style=for-the-badge&logo=devpost&logoColor=white&labelColor=0b0a12"/></a>
-  <img src="https://komarev.com/ghpvc/?username=hellowworld-ctrl&label=profile%20hits&color=fb7185&style=for-the-badge"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=12,20,24,30&section=header" width="100%"/>
@@ -79,27 +78,13 @@ Classwork that grew a personality.
 <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:fb7185,50:a78bfa,100:22d3ee&text=Live%20telemetry&fontAlignY=48&fontSize=26&fontColor=0b0a12" width="100%"/>
 
 <p align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=hellowworld-ctrl&show_icons=true&include_all_commits=true&hide_border=true&title_color=22d3ee&icon_color=a78bfa&text_color=e2e8f0&bg_color=0B0A12&ring_color=fb7185"/>
-  <img height="168" src="https://github-readme-streak-stats.herokuapp.com/?user=hellowworld-ctrl&hide_border=true&background=0B0A12&ring=22D3EE&fire=FB7185&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A3B8&stroke=A78BFA"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellowworld-ctrl&layout=compact&langs_count=8&hide_border=true&title_color=22d3ee&text_color=e2e8f0&bg_color=0B0A12"/>
+  <img height="195" src="./assets/stats.svg" alt="GitHub stats"/>
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=hellowworld-ctrl&hide_border=true&background=0B0A12&ring=22D3EE&fire=FB7185&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A3B8&stroke=A78BFA" alt="GitHub streak"/>
+  <img height="195" src="./assets/languages.svg" alt="Top languages"/>
 </p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/22d3ee/hellowworld-ctrl" alt="GitHub contribution chart" width="100%"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:a78bfa,100:22d3ee&text=Snake%20mode&fontAlignY=48&fontSize=28&fontColor=0b0a12" width="100%"/>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hellowworld-ctrl/hellowworld-ctrl/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hellowworld-ctrl/hellowworld-ctrl/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake eating the contribution grid" src="https://raw.githubusercontent.com/hellowworld-ctrl/hellowworld-ctrl/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</p>
-
-<p align="center"><sub>If the snake is missing, open Actions on the profile repo and run <b>generate animation</b> once.</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=12,20,24,30&section=footer&text=CTRL%20%2B%20ship&fontAlignY=70&fontSize=22&fontColor=ffffff&desc=Volodymyr%20Surin%20%C2%B7%20San%20Jos%C3%A9%20State&descAlignY=88" width="100%"/>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="435" height="195" viewBox="0 0 435 195" role="img" aria-label="GitHub stats">
+  <rect width="435" height="195" rx="8" fill="#0B0A12"/>
+  <text x="24" y="36" font-family="ui-sans-serif, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#22d3ee">Volodymyr Surin</text>
+  <text x="24" y="56" font-family="ui-sans-serif, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#94a3b8">GitHub stats</text>
+  <g font-family="ui-sans-serif, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">
+    <circle cx="32" cy="86" r="4" fill="#a78bfa"/>
+    <text x="46" y="91" fill="#e2e8f0">Total contributions</text>
+    <text x="390" y="91" text-anchor="end" fill="#f8fafc" font-weight="700">138</text>
+    <circle cx="32" cy="112" r="4" fill="#22d3ee"/>
+    <text x="46" y="117" fill="#e2e8f0">Public repositories</text>
+    <text x="390" y="117" text-anchor="end" fill="#f8fafc" font-weight="700">6</text>
+    <circle cx="32" cy="138" r="4" fill="#fb7185"/>
+    <text x="46" y="143" fill="#e2e8f0">Followers</text>
+    <text x="390" y="143" text-anchor="end" fill="#f8fafc" font-weight="700">3</text>
+    <circle cx="32" cy="164" r="4" fill="#bef264"/>
+    <text x="46" y="169" fill="#e2e8f0">Joined</text>
+    <text x="390" y="169" text-anchor="end" fill="#f8fafc" font-weight="700">Jan 2024</text>
+  </g>
+</svg>
