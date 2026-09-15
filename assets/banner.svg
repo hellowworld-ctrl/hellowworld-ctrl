@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Volodymyr Surin banner">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#09060f">
+        <animate attributeName="stop-color" values="#09060f;#12101f;#09060f" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="45%" stop-color="#2a1260">
+        <animate attributeName="stop-color" values="#2a1260;#16325a;#2a1260" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#062a2c">
+        <animate attributeName="stop-color" values="#062a2c;#3a0d2a;#062a2c" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="glow" cx="70%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.45"/>
+      <stop offset="55%" stop-color="#a78bfa" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#c4b5fd"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+    </linearGradient>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="12" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" fill="url(#sky)"/>
+  <rect width="1200" height="360" fill="url(#glow)"/>
+  <g opacity="0.08">
+    <rect y="18" width="1200" height="2" fill="#fff"/>
+    <rect y="54" width="1200" height="2" fill="#fff"/>
+    <rect y="90" width="1200" height="2" fill="#fff"/>
+    <rect y="126" width="1200" height="2" fill="#fff"/>
+    <rect y="162" width="1200" height="2" fill="#fff"/>
+    <rect y="198" width="1200" height="2" fill="#fff"/>
+    <rect y="234" width="1200" height="2" fill="#fff"/>
+    <rect y="270" width="1200" height="2" fill="#fff"/>
+    <rect y="306" width="1200" height="2" fill="#fff"/>
+    <rect y="342" width="1200" height="2" fill="#fff"/>
+  </g>
+  <circle r="4" fill="#22d3ee">
+    <animateMotion dur="11s" repeatCount="indefinite" path="M 80 80 C 240 20, 480 140, 720 60 S 1080 40, 1140 180"/>
+  </circle>
+  <circle r="3" fill="#fb7185">
+    <animateMotion dur="9s" repeatCount="indefinite" path="M 1100 300 C 900 240, 700 320, 420 280 S 160 250, 90 200"/>
+  </circle>
+  <text x="64" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#67e8f9" letter-spacing="4">CS @ SJSU  ·  BAY AREA  ·  BUILD MODE</text>
+  <text x="60" y="168" font-family="ui-sans-serif, -apple-system, Segoe UI, Inter, sans-serif" font-size="64" font-weight="800" fill="#f8fafc">VOLODYMYR</text>
+  <text x="60" y="232" font-family="ui-sans-serif, -apple-system, Segoe UI, Inter, sans-serif" font-size="64" font-weight="800" fill="url(#neon)">SURIN</text>
+  <text x="64" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#cbd5e1">"Can't innovate anymore, my ass!"  — Phil Schiller</text>
+  <g transform="translate(860,86)">
+    <rect x="8" y="8" width="236" height="168" rx="28" fill="#22d3ee" opacity="0.18" filter="url(#soft)"/>
+    <rect width="236" height="168" rx="28" fill="#0b0a12" stroke="url(#neon)" stroke-width="3"/>
+    <rect x="16" y="16" width="204" height="136" rx="18" fill="#151320" stroke="#312e4a" stroke-width="2"/>
+    <text x="118" y="78" text-anchor="middle" font-family="ui-sans-serif, Inter, sans-serif" font-size="42" font-weight="800" fill="#f8fafc">CTRL</text>
+    <text x="118" y="114" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="14" fill="#a78bfa" letter-spacing="3">HOLD TO INNOVATE</text>
+    <rect x="28" y="132" width="80" height="6" rx="3" fill="#22d3ee">
+      <animate attributeName="width" values="80;170;54;80" dur="3.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
